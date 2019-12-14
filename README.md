@@ -1,2 +1,2 @@
 # MaximaHW
-Homeworl
+Homework
